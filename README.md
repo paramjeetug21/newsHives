@@ -1,7 +1,7 @@
 # newsHives\
 This News App is powered by the GNews public API and provides users with the latest news articles from around the world. The app offers a user-friendly interface where news articles are organized by categories, allowing users to easily browse and read articles of their interest.
 
-Features
+ #Features
 Category-based News: The app organizes news articles into distinct categories such as entertainment, business, sports, technology, health, science, and more. Users can select a category to view articles that pertain specifically to their interests.
 
 Search Functionality: A built-in search feature allows users to find news articles by entering relevant keywords. The app will then present a list of articles that match the search terms, making it easy to locate specific information.
